@@ -1,0 +1,11 @@
+{
+    "name": "alex the composer",
+    "require" : {},
+    "autoload":
+    {
+        "classmap":
+        [
+            "."
+        ]
+    }
+}
